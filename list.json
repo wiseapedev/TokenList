@@ -6,5 +6,13 @@
     "symbol": "UniDexAI",
     "decimals": 9,
     "logoURI": "https://unidexai.xyz/static/media/unidexlogo.dc702dff.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "name": "pepe",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24478.png"
   }
 ]
