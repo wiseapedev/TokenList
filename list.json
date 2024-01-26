@@ -12,10 +12,11 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x882d911c2FDcE3CFa37C6eBbAe7D8D3BeEb6D17f",
-      "name": "ABTC",
-      "symbol": "ABTC",
-      "decimals": 8
+      "address": "0x1234567461d3f8Db7496581774Bd869C83D51c93",
+      "name": "BitClave",
+      "symbol": "CAT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/1585/thumb/bitclave.png?1547035768"
     }
   ]
 }
