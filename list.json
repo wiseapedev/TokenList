@@ -1,6 +1,38 @@
 [
   {
     "chainId": 1,
+    "address": "0x5B7533812759B45C2B44C19e320ba2cD2681b542",
+    "name": "SingularityNET",
+    "symbol": "AGIX",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/2138/large/singularitynet.png?1548609559"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+    "name": "agEUR",
+    "symbol": "AGEUR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/19479/large/agEUR.png?1635283566"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+    "name": "Pax Dollar",
+    "symbol": "USDP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/6013/large/Pax_Dollar.png?1629877204"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9813037ee2218799597d83D4a5B6F3b6778218d9",
+    "name": "Bone ShibaSwap",
+    "symbol": "BONE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/16916/large/bone_icon.png?1625625505"
+  },
+  {
+    "chainId": 1,
     "address": "0xdf3d893be686731d606b503d8bd904f15ee090c4",
     "name": "UniDexAI",
     "symbol": "UniDexAI",
