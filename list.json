@@ -12,19 +12,19 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1234567461d3f8Db7496581774Bd869C83D51c93",
-      "name": "BitClave",
-      "symbol": "CAT",
-      "decimals": 18,
-      "logoURI": "https://i.ibb.co/hX9FHL9/Unidex-Ai-Logo.jpg"
-    },
-    {
-      "chainId": 1,
       "address": "0xdf3d893be686731d606b503d8bd904f15ee090c4",
       "name": "UniDexAI",
       "symbol": "UniDexAI",
       "decimals": 9,
       "logoURI": "https://i.ibb.co/hX9FHL9/Unidex-Ai-Logo.jpg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+      "name": "pepe",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24478.png"
     }
   ]
 }
