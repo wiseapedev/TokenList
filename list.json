@@ -25,14 +25,6 @@
       "symbol": "PEPE",
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24478.png"
-    },
-    {
-      "chainId": 1,
-      "address": "0x0f7b3f5a8fed821c5eb60049538a548db2d479ce",
-      "name": "AirTor Protocol",
-      "symbol": "ATOR",
-      "decimals": 18,
-      "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x0f7b3f5a8fed821c5eb60049538a548db2d479ce.png?1678831118286"
     }
   ]
 }
