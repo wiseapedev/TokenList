@@ -14,10 +14,19 @@
       "chainId": 1,
       "address": "0xdf3d893be686731d606b503d8bd904f15ee090c4",
       "name": "UniDexAI",
-      "symbol": "UniDexAI",
+      "symbol": "UDX",
       "decimals": 9,
       "logoURI": "https://i.ibb.co/hX9FHL9/Unidex-Ai-Logo.jpg"
     },
+    {
+      "chainId": 1,
+      "address": "0xf49311af05a4ffb1dbf33d61e9b2d4f0a7d4a71c",
+      "name": "CompanionBot",
+      "symbol": "CBot",
+      "decimals": 9,
+      "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xf49311af05a4ffb1dbf33d61e9b2d4f0a7d4a71c.png?1690364311762"
+    },
+
     {
       "chainId": 1,
       "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
