@@ -12,6 +12,14 @@
   "tokens": [
     {
       "chainId": 1,
+      "address": "0xce3ee7435a5bEdBE73b92f39828b0CFD9D0FF568",
+      "name": "UniDexAI",
+      "symbol": "UDX",
+      "decimals": 18,
+      "logoURI": "https://i.ibb.co/hX9FHL9/Unidex-Ai-Logo.jpg"
+    },
+    {
+      "chainId": 1,
       "address": "0x0f7b3f5a8fed821c5eb60049538a548db2d479ce",
       "name": "AirTor Protocol",
       "symbol": "ATOR",
@@ -34,14 +42,7 @@
       "decimals": 18,
       "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x24edded3f03abb2e9d047464294133378bddb596.png?1701911627047"
     },
-    {
-      "chainId": 1,
-      "address": "0xce3ee7435a5bEdBE73b92f39828b0CFD9D0FF568",
-      "name": "UniDexAI",
-      "symbol": "UDX",
-      "decimals": 18,
-      "logoURI": "https://i.ibb.co/hX9FHL9/Unidex-Ai-Logo.jpg"
-    },
+
     {
       "chainId": 1,
       "address": "0xf49311af05a4ffb1dbf33d61e9b2d4f0a7d4a71c",
