@@ -1,14 +1,14 @@
 {
-  "name": "BA ERC20 SEC Action",
+  "name": "UDX",
   "timestamp": "2022-10-03T22:03:35.938Z",
   "version": {
     "major": 12,
-    "minor": 0,
-    "patch": 0
+    "minor": 1,
+    "patch": 1
   },
   "tags": {},
-  "logoURI": "ipfs://QmXsbxYZrdZrgqDMv37BaNmwsoG79uCk4ic8iYB9Nqaw4J",
-  "keywords": ["blockchain", "sec", "action"],
+  "logoURI": "https://i.ibb.co/hX9FHL9/Unidex-Ai-Logo.jpg",
+  "keywords": ["UDX"],
   "tokens": [
     {
       "chainId": 1,
