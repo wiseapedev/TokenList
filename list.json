@@ -73,6 +73,54 @@
       "symbol": "OTSea",
       "decimals": 18,
       "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x5da151b95657e788076d04d56234bd93e409cb09.png?1706873053022"
+    },
+    {
+      "chainId": 1,
+      "address": "0x5da151b95657e788076d04d56234bd93e409cb09",
+      "name": "StudioAi",
+      "symbol": "SAI",
+      "decimals": 9,
+      "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xeac32927cf2785cbe0d515298cab448538a8cdd7.png?1704888781909"
+    },
+     {
+      "chainId": 1,
+      "address": "0xa9fbcc25435ad713a9468d8c89dd7baae8914e3a",
+      "name": "Prophet",
+      "symbol": "PROPHET",
+      "decimals": 18,
+      "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xa9fbcc25435ad713a9468d8c89dd7baae8914e3a.jpeg?1695037825204"
+    },  
+       {
+      "chainId": 1,
+      "address": "0xf5aed4f6a1ad00f39dd21febb6f400ea020030c2",
+      "name": "Hodless BOT",
+      "symbol": "HBOT",
+      "decimals": 18,
+      "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xf5aed4f6a1ad00f39dd21febb6f400ea020030c2.png?1698001027069"
+    },
+      {
+      "chainId": 1,
+      "address": "0xa9fbcc25435ad713a9468d8c89dd7baae8914e3a",
+      "name": "Shill Guard Token",
+      "symbol": "SGT",
+      "decimals": 18,
+      "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xa0e7626287bd02cbe3531c65148261bf0c0ed98b.png?1699350137877"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf250b1f6193941bb8bff4152d719edf1a59c0e69",
+      "name": "AIREALM",
+      "symbol": "AIRM",
+      "decimals": 18,
+      "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0xf250b1f6193941bb8bff4152d719edf1a59c0e69.png?1705078677233"
+    },
+    {
+      "chainId": 1,
+      "address": "0x67268687e26d0f34cac5de30e6c2f63facb592bd",
+      "name": "All-In-One",
+      "symbol": "AI1",
+      "decimals": 9,
+      "logoURI": "https://www.dextools.io/resources/tokens/logos/ether/0x67268687e26d0f34cac5de30e6c2f63facb592bd.jpg?1707422451595"
     }
   ]
 }
