@@ -1,8 +1,8 @@
 {
-  "name": "UDX",
+  "name": "UDX1",
   "timestamp": "2022-10-03T22:03:35.938Z",
   "version": {
-    "major": 12,
+    "major": 13,
     "minor": 1,
     "patch": 1
   },
@@ -10,6 +10,14 @@
   "logoURI": "https://i.ibb.co/hX9FHL9/Unidex-Ai-Logo.jpg",
   "keywords": ["UDX"],
   "tokens": [
+    {
+      "chainId": 5,
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "name": "test",
+      "symbol": "test",
+      "decimals": 18,
+      "logoURI": "https://i.ibb.co/hX9FHL9/Unidex-Ai-Logo.jpg"
+    },
     {
       "chainId": 1,
       "address": "0xce3ee7435a5bEdBE73b92f39828b0CFD9D0FF568",
